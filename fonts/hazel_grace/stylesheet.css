@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HelloMorgan';
+    src: url('HelloMorgan.woff2') format('woff2'),
+        url('HelloMorgan.woff') format('woff'),
+        url('HelloMorgan.svg#HelloMorgan') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

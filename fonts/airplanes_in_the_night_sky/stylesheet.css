@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Airplanes in the Night Sky';
+    src: url('AirplanesintheNightSky.woff2') format('woff2'),
+        url('AirplanesintheNightSky.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
